@@ -26,3 +26,4 @@ const Banner = ({ video }) => {
 };
 
 export default Banner;
+
